@@ -17,7 +17,7 @@ def parse_freelance_register():
 
         index = 0
         print("index,last_name,first_name,description")
-        for site in range(1,84): # Current number of pages on website
+        for site in range(1,84): # Current range of pages on website
             # URL for website that will be scraped
             register_url = website_url + str(site) + "/"
 
