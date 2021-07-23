@@ -1,0 +1,3 @@
+# .gitignore for study_admin_interface
+*.csv
+__pycache__/
