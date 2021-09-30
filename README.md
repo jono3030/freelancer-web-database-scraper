@@ -4,4 +4,4 @@ Python script using Beautiful Soup 4 to scrape contact information from an index
 
 ## To do
 
-- Automatically detect number of pages on website
+- [ ] Automatically detect number of pages on website
